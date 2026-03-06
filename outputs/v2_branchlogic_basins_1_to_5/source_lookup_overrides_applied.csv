@@ -1,1 +1,16 @@
 swmm_id,exists_in_hydrology,bound_hydrology_column,bound_hydrology_row,bound_raw_value,notes
+J_71_9,true,B,220,71.9,applied from ANSWERS/source_lookup_overrides.csv
+IN_77_6,true,C,218,77.6,applied from ANSWERS/source_lookup_overrides.csv
+J_71_6,true,B,216,71.6,applied from ANSWERS/source_lookup_overrides.csv
+J_71_4,true,B,210,71.4,applied from ANSWERS/source_lookup_overrides.csv
+IN_77_5,true,C,215,77.5,applied from ANSWERS/source_lookup_overrides.csv
+J_71_5,true,B,214,71.5,applied from ANSWERS/source_lookup_overrides.csv
+IN_77_4,true,C,213,77.4,applied from ANSWERS/source_lookup_overrides.csv
+J_71_1,true,B,202,71.1,applied from ANSWERS/source_lookup_overrides.csv
+J_70_4,true,B,199,70.4,applied from ANSWERS/source_lookup_overrides.csv
+IN_76_43,true,C,198,76.43,applied from ANSWERS/source_lookup_overrides.csv
+J_70_1,true,B,193,70.1,applied from ANSWERS/source_lookup_overrides.csv
+J_68_1,true,B,183,68.1,applied from ANSWERS/source_lookup_overrides.csv
+IN_75_6,true,C,182,75.6,applied from ANSWERS/source_lookup_overrides.csv
+J_65_1,true,B,167,65.1,applied from ANSWERS/source_lookup_overrides.csv
+J_4_1,true,B,24,4.1,applied from ANSWERS/source_lookup_overrides.csv
