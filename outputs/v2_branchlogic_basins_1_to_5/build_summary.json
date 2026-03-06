@@ -1,0 +1,21 @@
+{
+  "topology_source": "branch_logic",
+  "basins_included": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "hydraulic_only": true,
+  "subcatchments_included": false,
+  "inlet_lateral_length_ft": 5,
+  "inlet_lateral_slope": 0.002,
+  "inlet_lateral_diameter_in": 24,
+  "branch_logic_authoritative": true,
+  "parsed_branch_logic_row_count": 232,
+  "built_node_count": 302,
+  "built_edge_count": 289,
+  "built_outfall_count": 4,
+  "blocking_issue_count": 193
+}
