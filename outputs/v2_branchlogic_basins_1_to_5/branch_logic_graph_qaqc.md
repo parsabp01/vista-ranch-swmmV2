@@ -6,3 +6,4 @@
 - Built nodes: 302
 - Built outfalls: 4
 - Blocking issues: 429
+- Blocking issues: 193

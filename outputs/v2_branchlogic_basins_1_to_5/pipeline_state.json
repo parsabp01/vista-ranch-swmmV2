@@ -5577,6 +5577,1162 @@
       "blocker_reason": "no_outfall_path",
       "direction_token_used": "",
       "source_branch_logic_row": ""
+      "from_swmm_id": "J_71_9",
+      "to_swmm_id": "J_72",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 7
+    },
+    {
+      "from_swmm_id": "IN_77_6",
+      "to_swmm_id": "J_71_8",
+      "reason": "missing_inlet_source",
+      "source_branch_logic_row": 8
+    },
+    {
+      "from_swmm_id": "J_71_6",
+      "to_swmm_id": "J_71_7",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 9
+    },
+    {
+      "from_swmm_id": "J_71_4",
+      "to_swmm_id": "J_71_7",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 9
+    },
+    {
+      "from_swmm_id": "IN_77_5",
+      "to_swmm_id": "J_71_6",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 10
+    },
+    {
+      "from_swmm_id": "J_71_5",
+      "to_swmm_id": "J_71_6",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 10
+    },
+    {
+      "from_swmm_id": "IN_77_4",
+      "to_swmm_id": "J_71_5",
+      "reason": "missing_inlet_source",
+      "source_branch_logic_row": 11
+    },
+    {
+      "from_swmm_id": "J_71_2",
+      "to_swmm_id": "J_71_4",
+      "reason": "missing_junction_source|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 12
+    },
+    {
+      "from_swmm_id": "J_71_3",
+      "to_swmm_id": "J_71_4",
+      "reason": "missing_junction_source|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 12
+    },
+    {
+      "from_swmm_id": "IN_77_2",
+      "to_swmm_id": "J_71_3",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 13
+    },
+    {
+      "from_swmm_id": "IN_77",
+      "to_swmm_id": "J_71_2",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 14
+    },
+    {
+      "from_swmm_id": "IN_77_1",
+      "to_swmm_id": "J_71_2",
+      "reason": "missing_inlet_source|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 14
+    },
+    {
+      "from_swmm_id": "J_71_1",
+      "to_swmm_id": "J_71_9",
+      "reason": "missing_junction_source|missing_junction_source",
+      "source_branch_logic_row": 15
+    },
+    {
+      "from_swmm_id": "J_71",
+      "to_swmm_id": "J_71_1",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 16
+    },
+    {
+      "from_swmm_id": "IN_76_5",
+      "to_swmm_id": "J_71_1",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 16
+    },
+    {
+      "from_swmm_id": "J_70_4",
+      "to_swmm_id": "J_71",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 17
+    },
+    {
+      "from_swmm_id": "IN_76_43",
+      "to_swmm_id": "J_70_4",
+      "reason": "missing_inlet_source|missing_junction_source",
+      "source_branch_logic_row": 18
+    },
+    {
+      "from_swmm_id": "J_70_3",
+      "to_swmm_id": "J_70_4",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 18
+    },
+    {
+      "from_swmm_id": "J_70_1",
+      "to_swmm_id": "J_70_2",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 20
+    },
+    {
+      "from_swmm_id": "IN_76_3",
+      "to_swmm_id": "J_70_1",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 21
+    },
+    {
+      "from_swmm_id": "IN_76_1",
+      "to_swmm_id": "J_70",
+      "reason": "missing_inlet_source",
+      "source_branch_logic_row": 22
+    },
+    {
+      "from_swmm_id": "J_68_1",
+      "to_swmm_id": "J_69",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 23
+    },
+    {
+      "from_swmm_id": "J_68_05",
+      "to_swmm_id": "J_69",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 23
+    },
+    {
+      "from_swmm_id": "J_65_3",
+      "to_swmm_id": "J_69",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 23
+    },
+    {
+      "from_swmm_id": "J_68",
+      "to_swmm_id": "J_68_05",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 24
+    },
+    {
+      "from_swmm_id": "IN_75_3",
+      "to_swmm_id": "J_68",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 25
+    },
+    {
+      "from_swmm_id": "IN_75_4",
+      "to_swmm_id": "J_68",
+      "reason": "missing_inlet_source|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 25
+    },
+    {
+      "from_swmm_id": "IN_75_5",
+      "to_swmm_id": "J_68_1",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 26
+    },
+    {
+      "from_swmm_id": "IN_75_6",
+      "to_swmm_id": "J_68_1",
+      "reason": "missing_inlet_source|missing_junction_source",
+      "source_branch_logic_row": 26
+    },
+    {
+      "from_swmm_id": "J_65_1",
+      "to_swmm_id": "J_65_3",
+      "reason": "missing_junction_source|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 27
+    },
+    {
+      "from_swmm_id": "J_65_25",
+      "to_swmm_id": "J_65_3",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 27
+    },
+    {
+      "from_swmm_id": "IN_75_25",
+      "to_swmm_id": "J_65_25",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 28
+    },
+    {
+      "from_swmm_id": "J_65_2",
+      "to_swmm_id": "J_65_25",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 28
+    },
+    {
+      "from_swmm_id": "IN_75_2",
+      "to_swmm_id": "J_65_2",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 29
+    },
+    {
+      "from_swmm_id": "IN_75_1",
+      "to_swmm_id": "J_65_2",
+      "reason": "missing_inlet_source|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 29
+    },
+    {
+      "from_swmm_id": "J_65",
+      "to_swmm_id": "J_65_1",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 30
+    },
+    {
+      "from_swmm_id": "IN_75",
+      "to_swmm_id": "J_65_1",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 30
+    },
+    {
+      "from_swmm_id": "IN_74",
+      "to_swmm_id": "J_65_1",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 30
+    },
+    {
+      "from_swmm_id": "J_55",
+      "to_swmm_id": "J_57",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 35
+    },
+    {
+      "from_swmm_id": "IN_56",
+      "to_swmm_id": "J_55",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 36
+    },
+    {
+      "from_swmm_id": "IN_56_1",
+      "to_swmm_id": "J_55",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 36
+    },
+    {
+      "from_swmm_id": "J_36",
+      "to_swmm_id": "J_37",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 54
+    },
+    {
+      "from_swmm_id": "IN_39",
+      "to_swmm_id": "J_36",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 55
+    },
+    {
+      "from_swmm_id": "J_4_1",
+      "to_swmm_id": "J_5",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 89
+    },
+    {
+      "from_swmm_id": "IN_6",
+      "to_swmm_id": "J_4_1",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 90
+    },
+    {
+      "from_swmm_id": "IN_6_1",
+      "to_swmm_id": "J_4_1",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 90
+    },
+    {
+      "from_swmm_id": "IN_7",
+      "to_swmm_id": "J_4_1",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 90
+    },
+    {
+      "from_swmm_id": "J_134",
+      "to_swmm_id": "O_134",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 95
+    },
+    {
+      "from_swmm_id": "IN_162",
+      "to_swmm_id": "J_134",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 96
+    },
+    {
+      "from_swmm_id": "J_133",
+      "to_swmm_id": "J_134",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 96
+    },
+    {
+      "from_swmm_id": "J_116",
+      "to_swmm_id": "J_117",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 114
+    },
+    {
+      "from_swmm_id": "IN_141",
+      "to_swmm_id": "J_116",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 115
+    },
+    {
+      "from_swmm_id": "J_113_2",
+      "to_swmm_id": "J_115",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 116
+    },
+    {
+      "from_swmm_id": "J_114",
+      "to_swmm_id": "J_115",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 116
+    },
+    {
+      "from_swmm_id": "J_114_2",
+      "to_swmm_id": "J_115",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 116
+    },
+    {
+      "from_swmm_id": "J_114_1",
+      "to_swmm_id": "J_114_2",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 117
+    },
+    {
+      "from_swmm_id": "IN_139",
+      "to_swmm_id": "J_114_2",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 117
+    },
+    {
+      "from_swmm_id": "IN_138",
+      "to_swmm_id": "J_114_1",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 118
+    },
+    {
+      "from_swmm_id": "IN_137_1",
+      "to_swmm_id": "J_114",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 119
+    },
+    {
+      "from_swmm_id": "IN_137",
+      "to_swmm_id": "J_114",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 119
+    },
+    {
+      "from_swmm_id": "J_113_1",
+      "to_swmm_id": "J_113_2",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 120
+    },
+    {
+      "from_swmm_id": "IN_140",
+      "to_swmm_id": "J_113_2",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 120
+    },
+    {
+      "from_swmm_id": "J_110_3",
+      "to_swmm_id": "J_111",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 124
+    },
+    {
+      "from_swmm_id": "IN_130_4",
+      "to_swmm_id": "J_110_3",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 125
+    },
+    {
+      "from_swmm_id": "IN_130_5",
+      "to_swmm_id": "J_110_3",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 125
+    },
+    {
+      "from_swmm_id": "J_110_2",
+      "to_swmm_id": "J_110_3",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 125
+    },
+    {
+      "from_swmm_id": "J_110_1",
+      "to_swmm_id": "J_110_2",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 126
+    },
+    {
+      "from_swmm_id": "J_110",
+      "to_swmm_id": "J_110_2",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 126
+    },
+    {
+      "from_swmm_id": "IN_130_2",
+      "to_swmm_id": "J_110_1",
+      "reason": "missing_inlet_source|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 127
+    },
+    {
+      "from_swmm_id": "IN_130_3",
+      "to_swmm_id": "J_110_1",
+      "reason": "missing_inlet_source|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 127
+    },
+    {
+      "from_swmm_id": "J_108_4",
+      "to_swmm_id": "J_110",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 128
+    },
+    {
+      "from_swmm_id": "J_109_2",
+      "to_swmm_id": "J_110",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 128
+    },
+    {
+      "from_swmm_id": "IN_130",
+      "to_swmm_id": "J_109_2",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 129
+    },
+    {
+      "from_swmm_id": "IN_130_1",
+      "to_swmm_id": "J_109_2",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 129
+    },
+    {
+      "from_swmm_id": "J_109_1",
+      "to_swmm_id": "J_109_2",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 129
+    },
+    {
+      "from_swmm_id": "IN_129_2",
+      "to_swmm_id": "J_109_1",
+      "reason": "missing_inlet_source|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 130
+    },
+    {
+      "from_swmm_id": "J_109",
+      "to_swmm_id": "J_109_1",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 130
+    },
+    {
+      "from_swmm_id": "IN_129",
+      "to_swmm_id": "J_109",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 131
+    },
+    {
+      "from_swmm_id": "IN_129_1",
+      "to_swmm_id": "J_109",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 131
+    },
+    {
+      "from_swmm_id": "J_107",
+      "to_swmm_id": "J_108_4",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 132
+    },
+    {
+      "from_swmm_id": "J_108_1",
+      "to_swmm_id": "J_108_4",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 132
+    },
+    {
+      "from_swmm_id": "J_108_3",
+      "to_swmm_id": "J_108_4",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 132
+    },
+    {
+      "from_swmm_id": "J_108_2",
+      "to_swmm_id": "J_108_3",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 133
+    },
+    {
+      "from_swmm_id": "IN_128_2",
+      "to_swmm_id": "J_108_3",
+      "reason": "missing_inlet_source|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 133
+    },
+    {
+      "from_swmm_id": "IN_128",
+      "to_swmm_id": "J_108_2",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 134
+    },
+    {
+      "from_swmm_id": "IN_128_1",
+      "to_swmm_id": "J_108_2",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 134
+    },
+    {
+      "from_swmm_id": "J_108",
+      "to_swmm_id": "J_108_1",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 135
+    },
+    {
+      "from_swmm_id": "IN_127_2",
+      "to_swmm_id": "J_108_1",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 135
+    },
+    {
+      "from_swmm_id": "IN_127",
+      "to_swmm_id": "J_108",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 136
+    },
+    {
+      "from_swmm_id": "IN_127_1",
+      "to_swmm_id": "J_108",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 136
+    },
+    {
+      "from_swmm_id": "J_106",
+      "to_swmm_id": "J_107",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 137
+    },
+    {
+      "from_swmm_id": "J_104",
+      "to_swmm_id": "J_107",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 137
+    },
+    {
+      "from_swmm_id": "J_101_1",
+      "to_swmm_id": "J_107",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 137
+    },
+    {
+      "from_swmm_id": "IN_125",
+      "to_swmm_id": "J_106",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 138
+    },
+    {
+      "from_swmm_id": "IN_126",
+      "to_swmm_id": "J_106",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 138
+    },
+    {
+      "from_swmm_id": "J_105_4",
+      "to_swmm_id": "J_106",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 138
+    },
+    {
+      "from_swmm_id": "J_105_2",
+      "to_swmm_id": "J_105_4",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 139
+    },
+    {
+      "from_swmm_id": "J_105_3",
+      "to_swmm_id": "J_105_4",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 139
+    },
+    {
+      "from_swmm_id": "J_105_1",
+      "to_swmm_id": "J_105_4",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 139
+    },
+    {
+      "from_swmm_id": "IN_124_5",
+      "to_swmm_id": "J_105_3",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 140
+    },
+    {
+      "from_swmm_id": "IN_124_6",
+      "to_swmm_id": "J_105_3",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 140
+    },
+    {
+      "from_swmm_id": "IN_124_3",
+      "to_swmm_id": "J_105_2",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 141
+    },
+    {
+      "from_swmm_id": "IN_124_4",
+      "to_swmm_id": "J_105_2",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 141
+    },
+    {
+      "from_swmm_id": "J_105",
+      "to_swmm_id": "J_105_1",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 142
+    },
+    {
+      "from_swmm_id": "IN_124_2",
+      "to_swmm_id": "J_105_1",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 142
+    },
+    {
+      "from_swmm_id": "IN_124",
+      "to_swmm_id": "J_105",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 143
+    },
+    {
+      "from_swmm_id": "IN_124_1",
+      "to_swmm_id": "J_105",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 143
+    },
+    {
+      "from_swmm_id": "J_103_4",
+      "to_swmm_id": "J_104",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 144
+    },
+    {
+      "from_swmm_id": "J_103_5",
+      "to_swmm_id": "J_104",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 144
+    },
+    {
+      "from_swmm_id": "IN_123_4",
+      "to_swmm_id": "J_103_5",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 145
+    },
+    {
+      "from_swmm_id": "IN_123_2",
+      "to_swmm_id": "J_103_4",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 146
+    },
+    {
+      "from_swmm_id": "IN_123_3",
+      "to_swmm_id": "J_103_4",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 146
+    },
+    {
+      "from_swmm_id": "J_103_3",
+      "to_swmm_id": "J_103_4",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 146
+    },
+    {
+      "from_swmm_id": "J_102_4",
+      "to_swmm_id": "J_103_3",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 147
+    },
+    {
+      "from_swmm_id": "J_103_2",
+      "to_swmm_id": "J_103_3",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 147
+    },
+    {
+      "from_swmm_id": "J_103_1",
+      "to_swmm_id": "J_103_2",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 148
+    },
+    {
+      "from_swmm_id": "J_103",
+      "to_swmm_id": "J_103_2",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 148
+    },
+    {
+      "from_swmm_id": "IN_123",
+      "to_swmm_id": "J_103_1",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 149
+    },
+    {
+      "from_swmm_id": "IN_123_1",
+      "to_swmm_id": "J_103_1",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 149
+    },
+    {
+      "from_swmm_id": "IN_122",
+      "to_swmm_id": "J_103",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 150
+    },
+    {
+      "from_swmm_id": "IN_122_1",
+      "to_swmm_id": "J_103",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 150
+    },
+    {
+      "from_swmm_id": "IN_122_2",
+      "to_swmm_id": "J_103",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 150
+    },
+    {
+      "from_swmm_id": "J_102_3",
+      "to_swmm_id": "J_102_4",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 151
+    },
+    {
+      "from_swmm_id": "IN_121",
+      "to_swmm_id": "J_102_4",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 151
+    },
+    {
+      "from_swmm_id": "J_102_1",
+      "to_swmm_id": "J_102_3",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 152
+    },
+    {
+      "from_swmm_id": "J_102_2",
+      "to_swmm_id": "J_102_3",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 152
+    },
+    {
+      "from_swmm_id": "IN_120",
+      "to_swmm_id": "J_102_2",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 153
+    },
+    {
+      "from_swmm_id": "IN_119_2",
+      "to_swmm_id": "J_102_1",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 154
+    },
+    {
+      "from_swmm_id": "J_102",
+      "to_swmm_id": "J_102_1",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 154
+    },
+    {
+      "from_swmm_id": "IN_119",
+      "to_swmm_id": "J_102",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 155
+    },
+    {
+      "from_swmm_id": "IN_119_1",
+      "to_swmm_id": "J_102",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 155
+    },
+    {
+      "from_swmm_id": "IN_118",
+      "to_swmm_id": "J_101_1",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 156
+    },
+    {
+      "from_swmm_id": "IN_118_1",
+      "to_swmm_id": "J_101_1",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 156
+    },
+    {
+      "from_swmm_id": "J_101",
+      "to_swmm_id": "J_101_1",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 156
+    },
+    {
+      "from_swmm_id": "IN_117_2",
+      "to_swmm_id": "J_101",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 157
+    },
+    {
+      "from_swmm_id": "IN_117_1",
+      "to_swmm_id": "J_101",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 157
+    },
+    {
+      "from_swmm_id": "IN_117",
+      "to_swmm_id": "J_101",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 157
+    },
+    {
+      "from_swmm_id": "J_99",
+      "to_swmm_id": "J_100",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 158
+    },
+    {
+      "from_swmm_id": "IN_116_2",
+      "to_swmm_id": "J_99",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 159
+    },
+    {
+      "from_swmm_id": "IN_116_3",
+      "to_swmm_id": "J_99",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 159
+    },
+    {
+      "from_swmm_id": "IN_116_4",
+      "to_swmm_id": "J_99",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 159
+    },
+    {
+      "from_swmm_id": "J_97_1",
+      "to_swmm_id": "J_98",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 160
+    },
+    {
+      "from_swmm_id": "J_97",
+      "to_swmm_id": "J_97_1",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 161
+    },
+    {
+      "from_swmm_id": "IN_116_01",
+      "to_swmm_id": "J_97_1",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 161
+    },
+    {
+      "from_swmm_id": "IN_116_02",
+      "to_swmm_id": "J_97_1",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 161
+    },
+    {
+      "from_swmm_id": "IN_116",
+      "to_swmm_id": "J_97",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 162
+    },
+    {
+      "from_swmm_id": "J_96_1",
+      "to_swmm_id": "J_97",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 162
+    },
+    {
+      "from_swmm_id": "IN_115_1",
+      "to_swmm_id": "J_96_1",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 163
+    },
+    {
+      "from_swmm_id": "J_95_1",
+      "to_swmm_id": "J_95_15",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 168
+    },
+    {
+      "from_swmm_id": "IN_112",
+      "to_swmm_id": "J_95_1",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 169
+    },
+    {
+      "from_swmm_id": "J_89",
+      "to_swmm_id": "J_95",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 170
+    },
+    {
+      "from_swmm_id": "J_91",
+      "to_swmm_id": "J_92",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 176
+    },
+    {
+      "from_swmm_id": "IN_106",
+      "to_swmm_id": "J_91",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 177
+    },
+    {
+      "from_swmm_id": "IN_106_1",
+      "to_swmm_id": "J_91",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 177
+    },
+    {
+      "from_swmm_id": "J_88_1",
+      "to_swmm_id": "J_89",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 180
+    },
+    {
+      "from_swmm_id": "IN_102",
+      "to_swmm_id": "J_89",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 180
+    },
+    {
+      "from_swmm_id": "J_84_1",
+      "to_swmm_id": "J_85",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 185
+    },
+    {
+      "from_swmm_id": "IN_96",
+      "to_swmm_id": "J_84_1",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 186
+    },
+    {
+      "from_swmm_id": "J_84",
+      "to_swmm_id": "J_84_1",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 186
+    },
+    {
+      "from_swmm_id": "IN_95",
+      "to_swmm_id": "J_84",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 187
+    },
+    {
+      "from_swmm_id": "J_81_1",
+      "to_swmm_id": "J_82",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 190
+    },
+    {
+      "from_swmm_id": "IN_89",
+      "to_swmm_id": "J_81_1",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 191
+    },
+    {
+      "from_swmm_id": "J_81",
+      "to_swmm_id": "J_81_1",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 191
+    },
+    {
+      "from_swmm_id": "J_78_1",
+      "to_swmm_id": "J_80",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 193
+    },
+    {
+      "from_swmm_id": "J_78",
+      "to_swmm_id": "J_78_1",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 195
+    },
+    {
+      "from_swmm_id": "IN_84",
+      "to_swmm_id": "J_78_1",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 195
+    },
+    {
+      "from_swmm_id": "J_137_2",
+      "to_swmm_id": "J_138",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 224
+    },
+    {
+      "from_swmm_id": "J_136_9",
+      "to_swmm_id": "J_137_2",
+      "reason": "missing_junction_source|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 225
+    },
+    {
+      "from_swmm_id": "J_137_1",
+      "to_swmm_id": "J_137_2",
+      "reason": "missing_junction_source|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 225
+    },
+    {
+      "from_swmm_id": "J_137",
+      "to_swmm_id": "J_137_1",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 226
+    },
+    {
+      "from_swmm_id": "IN_166_2",
+      "to_swmm_id": "J_137_1",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 226
+    },
+    {
+      "from_swmm_id": "IN_166_1",
+      "to_swmm_id": "J_137",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 227
+    },
+    {
+      "from_swmm_id": "IN_166",
+      "to_swmm_id": "J_137",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 227
+    },
+    {
+      "from_swmm_id": "J_136_8",
+      "to_swmm_id": "J_136_9",
+      "reason": "missing_junction_source|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 228
+    },
+    {
+      "from_swmm_id": "J_136_7",
+      "to_swmm_id": "J_136_9",
+      "reason": "missing_junction_source|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 228
+    },
+    {
+      "from_swmm_id": "IN_165_9",
+      "to_swmm_id": "J_136_8",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 229
+    },
+    {
+      "from_swmm_id": "IN_165_8",
+      "to_swmm_id": "J_136_8",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 229
+    },
+    {
+      "from_swmm_id": "J_136_6",
+      "to_swmm_id": "J_136_7",
+      "reason": "missing_junction_source|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 230
+    },
+    {
+      "from_swmm_id": "IN_165_6",
+      "to_swmm_id": "J_136_7",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 230
+    },
+    {
+      "from_swmm_id": "IN_165_7",
+      "to_swmm_id": "J_136_7",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 230
+    },
+    {
+      "from_swmm_id": "J_136",
+      "to_swmm_id": "J_136_6",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 231
+    },
+    {
+      "from_swmm_id": "J_136_5",
+      "to_swmm_id": "J_136_6",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 231
+    },
+    {
+      "from_swmm_id": "IN_165_5",
+      "to_swmm_id": "J_136_5",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 232
+    },
+    {
+      "from_swmm_id": "J_136_4",
+      "to_swmm_id": "J_136_5",
+      "reason": "missing_required_junction_fields:AC|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 232
+    },
+    {
+      "from_swmm_id": "J_136_3",
+      "to_swmm_id": "J_136_4",
+      "reason": "missing_junction_source|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 233
+    },
+    {
+      "from_swmm_id": "IN_165_4",
+      "to_swmm_id": "J_136_4",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 233
+    },
+    {
+      "from_swmm_id": "J_136_2",
+      "to_swmm_id": "J_136_3",
+      "reason": "missing_junction_source|missing_junction_source",
+      "source_branch_logic_row": 234
+    },
+    {
+      "from_swmm_id": "IN_165_3",
+      "to_swmm_id": "J_136_3",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 234
+    },
+    {
+      "from_swmm_id": "J_136_1",
+      "to_swmm_id": "J_136_2",
+      "reason": "missing_junction_source|missing_required_junction_fields:AC",
+      "source_branch_logic_row": 235
+    },
+    {
+      "from_swmm_id": "IN_165_2",
+      "to_swmm_id": "J_136_2",
+      "reason": "missing_junction_source",
+      "source_branch_logic_row": 235
+    },
+    {
+      "from_swmm_id": "IN_165_1",
+      "to_swmm_id": "J_136_1",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 236
+    },
+    {
+      "from_swmm_id": "IN_165",
+      "to_swmm_id": "J_136",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 237
+    },
+    {
+      "from_swmm_id": "IN_164",
+      "to_swmm_id": "J_136",
+      "reason": "missing_required_junction_fields:AC",
+      "source_branch_logic_row": 237
     }
   ]
 }
