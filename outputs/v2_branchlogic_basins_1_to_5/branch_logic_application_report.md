@@ -6,6 +6,9 @@
 - HYDROLOGY: readable
 
 ## Method
+- Topology from branch_logic columns B/C for basins 1-5.
+- Attributes from HYDROLOGY columns B/C/R/AA/AC/S/V (rows <= 684).
+- DI TABLE ignored for hydraulics.
 - branch_logic B/C used as authoritative topology for basins 1-5.
 - HYDROLOGY B/C/R/AA/AC/S/V used as authoritative attributes (rows <= 684).
 - DI TABLE not used.
