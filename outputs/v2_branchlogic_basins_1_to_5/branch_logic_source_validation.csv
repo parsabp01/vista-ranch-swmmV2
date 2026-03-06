@@ -1,483 +1,58 @@
-swmm_id,node_type,exists_in_hydrology,missing_fields
-J_1,JUNCTION,true,
-J_100,JUNCTION,true,
-J_101,JUNCTION,true,AC
-J_101_1,JUNCTION,true,AC
-J_102,JUNCTION,true,AC
-J_102_1,JUNCTION,true,AC
-J_102_2,JUNCTION,true,AC
-J_102_3,JUNCTION,true,AC
-J_102_4,JUNCTION,true,AC
-J_103,JUNCTION,true,AC
-J_103_1,JUNCTION,true,AC
-J_103_2,JUNCTION,true,AC
-J_103_3,JUNCTION,true,AC
-J_103_4,JUNCTION,true,AC
-J_103_5,JUNCTION,true,AC
-J_104,JUNCTION,true,AC
-J_105,JUNCTION,true,AC
-J_105_1,JUNCTION,true,AC
-J_105_2,JUNCTION,true,AC
-J_105_3,JUNCTION,true,AC
-J_105_4,JUNCTION,true,AC
-J_106,JUNCTION,true,AC
-J_107,JUNCTION,true,AC
-J_108,JUNCTION,true,AC
-J_108_1,JUNCTION,true,AC
-J_108_2,JUNCTION,true,AC
-J_108_3,JUNCTION,true,AC
-J_108_4,JUNCTION,true,AC
-J_109,JUNCTION,true,AC
-J_109_1,JUNCTION,true,AC
-J_109_2,JUNCTION,true,AC
-J_11,JUNCTION,true,
-J_110,JUNCTION,true,AC
-J_110_1,JUNCTION,true,AC
-J_110_2,JUNCTION,true,AC
-J_110_3,JUNCTION,true,AC
-J_111,JUNCTION,true,
-J_112,JUNCTION,true,
-J_113,JUNCTION,true,
-J_113_1,JUNCTION,true,
-J_113_2,JUNCTION,true,AC
-J_114,JUNCTION,true,AC
-J_114_1,JUNCTION,true,AC
-J_114_2,JUNCTION,true,AC
-J_115,JUNCTION,true,
-J_116,JUNCTION,true,AC
-J_117,JUNCTION,true,
-J_118,JUNCTION,true,
-J_119,JUNCTION,true,
-J_12,JUNCTION,true,
-J_120,JUNCTION,true,
-J_121,JUNCTION,true,
-J_122,JUNCTION,true,
-J_123,JUNCTION,true,
-J_124,JUNCTION,true,
-J_125,JUNCTION,true,
-J_126,JUNCTION,true,
-J_127,JUNCTION,true,
-J_128,JUNCTION,true,
-J_129,JUNCTION,true,
-J_13,JUNCTION,true,
-J_130,JUNCTION,true,
-J_131,JUNCTION,true,
-J_132,JUNCTION,true,
-J_132_1,JUNCTION,true,
-J_133,JUNCTION,true,
-J_134,JUNCTION,true,AC
-J_134_1,JUNCTION,true,
-J_135,JUNCTION,true,
-J_136,JUNCTION,true,AC
-J_136_1,JUNCTION,true,AC
-J_136_2,JUNCTION,false,AA|AC|S|V
-J_136_3,JUNCTION,false,AA|AC|S|V
-J_136_4,JUNCTION,true,AC
-J_136_5,JUNCTION,true,AC
-J_136_6,JUNCTION,true,AC
-J_136_7,JUNCTION,false,AA|AC|S|V
-J_136_8,JUNCTION,false,AA|AC|S|V
-J_136_9,JUNCTION,true,AC
-J_137,JUNCTION,true,AC
-J_137_1,JUNCTION,true,AC
-J_137_2,JUNCTION,false,AA|AC|S|V
-J_138,JUNCTION,true,
-J_139,JUNCTION,true,
-J_14,JUNCTION,true,
-J_140,JUNCTION,true,
-J_141,JUNCTION,true,
-J_142,JUNCTION,true,
-J_143,JUNCTION,true,
-J_144,JUNCTION,true,
-J_145,JUNCTION,true,
-J_146,JUNCTION,true,
-J_147,JUNCTION,true,
-J_148,JUNCTION,true,
-J_149,JUNCTION,true,
-J_15,JUNCTION,true,
-J_150,JUNCTION,true,
-J_151,JUNCTION,true,
-J_152,JUNCTION,true,
-J_153,JUNCTION,true,
-J_153_1,JUNCTION,true,
-J_154,JUNCTION,true,
-J_155,JUNCTION,true,
-J_156,JUNCTION,true,
-J_16,JUNCTION,true,
-J_17,JUNCTION,true,
-J_18,JUNCTION,true,
-J_19,JUNCTION,true,
-J_2,JUNCTION,true,
-J_20,JUNCTION,true,
-J_21,JUNCTION,true,
-J_22,JUNCTION,true,
-J_23,JUNCTION,true,
-J_24,JUNCTION,true,
-J_25,JUNCTION,true,
-J_26,JUNCTION,true,
-J_26_1,JUNCTION,true,
-J_27,JUNCTION,true,
-J_27_1,JUNCTION,true,
-J_28,JUNCTION,true,
-J_29,JUNCTION,true,
-J_3,JUNCTION,true,
-J_30,JUNCTION,true,
-J_31,JUNCTION,true,
-J_32,JUNCTION,true,
-J_33,JUNCTION,true,
-J_34,JUNCTION,true,
-J_35,JUNCTION,true,
-J_36,JUNCTION,true,AC
-J_37,JUNCTION,true,
-J_38,JUNCTION,true,
-J_39,JUNCTION,true,
-J_40,JUNCTION,true,
-J_41,JUNCTION,true,
-J_42,JUNCTION,true,
-J_43,JUNCTION,true,
-J_44,JUNCTION,true,
-J_45,JUNCTION,true,
-J_46,JUNCTION,true,
-J_47,JUNCTION,true,
-J_48,JUNCTION,true,
-J_49,JUNCTION,true,
-J_4_1,JUNCTION,false,AA|AC|S|V
-J_5,JUNCTION,true,
-J_50,JUNCTION,true,
-J_51,JUNCTION,true,
-J_52,JUNCTION,true,
-J_53,JUNCTION,true,
-J_54,JUNCTION,true,
-J_55,JUNCTION,true,AC
-J_57,JUNCTION,true,
-J_6,JUNCTION,true,
-J_61,JUNCTION,true,
-J_62,JUNCTION,true,
-J_63,JUNCTION,true,
-J_65,JUNCTION,true,
-J_65_1,JUNCTION,false,AA|AC|S|V
-J_65_2,JUNCTION,true,AC
-J_65_25,JUNCTION,true,AC
-J_65_3,JUNCTION,true,AC
-J_68,JUNCTION,true,AC
-J_68_05,JUNCTION,true,AC
-J_68_1,JUNCTION,false,AA|AC|S|V
-J_69,JUNCTION,true,
-J_6_1,JUNCTION,true,
-J_7,JUNCTION,true,
-J_70,JUNCTION,true,
-J_70_1,JUNCTION,false,AA|AC|S|V
-J_70_2,JUNCTION,true,
-J_70_3,JUNCTION,true,
-J_70_4,JUNCTION,false,AA|AC|S|V
-J_71,JUNCTION,true,
-J_71_1,JUNCTION,false,AA|AC|S|V
-J_71_2,JUNCTION,true,AC
-J_71_3,JUNCTION,true,AC
-J_71_4,JUNCTION,false,AA|AC|S|V
-J_71_5,JUNCTION,true,
-J_71_6,JUNCTION,false,AA|AC|S|V
-J_71_7,JUNCTION,true,
-J_71_8,JUNCTION,true,
-J_71_9,JUNCTION,false,AA|AC|S|V
-J_72,JUNCTION,true,
-J_74,JUNCTION,true,
-J_75,JUNCTION,true,
-J_76,JUNCTION,true,
-J_77,JUNCTION,true,
-J_78,JUNCTION,true,
-J_78_1,JUNCTION,false,AA|AC|S|V
-J_79,JUNCTION,true,
-J_7_1,JUNCTION,true,
-J_8,JUNCTION,true,
-J_80,JUNCTION,true,
-J_81,JUNCTION,true,
-J_81_1,JUNCTION,false,AA|AC|S|V
-J_82,JUNCTION,true,
-J_83,JUNCTION,true,
-J_83_1,JUNCTION,true,
-J_84,JUNCTION,true,AC
-J_84_1,JUNCTION,true,AC
-J_85,JUNCTION,true,
-J_86,JUNCTION,true,
-J_87,JUNCTION,true,
-J_88,JUNCTION,true,
-J_88_1,JUNCTION,true,
-J_89,JUNCTION,true,AC
-J_9,JUNCTION,true,
-J_90,JUNCTION,true,
-J_90_1,JUNCTION,true,
-J_91,JUNCTION,true,AC
-J_92,JUNCTION,true,
-J_93,JUNCTION,true,
-J_94,JUNCTION,true,
-J_94_1,JUNCTION,true,
-J_94_2,JUNCTION,true,
-J_94_4,JUNCTION,true,
-J_95,JUNCTION,true,
-J_95_1,JUNCTION,true,AC
-J_95_15,JUNCTION,true,
-J_95_2,JUNCTION,true,
-J_95_3,JUNCTION,true,
-J_95_4,JUNCTION,true,
-J_96,JUNCTION,true,
-J_96_1,JUNCTION,true,AC
-J_97,JUNCTION,true,AC
-J_97_1,JUNCTION,true,AC
-J_98,JUNCTION,true,
-J_99,JUNCTION,true,AC
-IN_1,INLET,true,
-IN_10,INLET,true,
-IN_100,INLET,true,
-IN_100_1,INLET,true,
-IN_101,INLET,true,
-IN_102,INLET,true,
-IN_103,INLET,true,
-IN_104,INLET,true,
-IN_105,INLET,true,
-IN_106,INLET,true,
-IN_106_1,INLET,true,
-IN_107,INLET,true,
-IN_108,INLET,true,
-IN_109,INLET,true,
-IN_11,INLET,true,
-IN_110_1,INLET,true,
-IN_111,INLET,true,
-IN_112,INLET,true,
-IN_112_1,INLET,true,
-IN_112_2,INLET,true,
-IN_113,INLET,true,
-IN_114,INLET,true,
-IN_115,INLET,true,
-IN_115_1,INLET,true,
-IN_116,INLET,true,
-IN_116_01,INLET,true,
-IN_116_02,INLET,true,
-IN_116_1,INLET,true,
-IN_116_2,INLET,true,
-IN_116_3,INLET,true,
-IN_116_4,INLET,true,
-IN_117,INLET,true,
-IN_117_1,INLET,true,
-IN_117_2,INLET,true,
-IN_118,INLET,true,
-IN_118_1,INLET,true,
-IN_119,INLET,true,
-IN_119_1,INLET,true,
-IN_119_2,INLET,true,
-IN_12,INLET,true,
-IN_120,INLET,true,
-IN_121,INLET,true,
-IN_122,INLET,true,
-IN_122_1,INLET,true,
-IN_122_2,INLET,true,
-IN_123,INLET,true,
-IN_123_1,INLET,true,
-IN_123_2,INLET,true,
-IN_123_3,INLET,true,
-IN_123_4,INLET,true,
-IN_124,INLET,true,
-IN_124_1,INLET,true,
-IN_124_2,INLET,true,
-IN_124_3,INLET,true,
-IN_124_4,INLET,true,
-IN_124_5,INLET,true,
-IN_124_6,INLET,true,
-IN_125,INLET,true,
-IN_126,INLET,true,
-IN_127,INLET,true,
-IN_127_1,INLET,true,
-IN_127_2,INLET,true,
-IN_128,INLET,true,
-IN_128_1,INLET,true,
-IN_128_2,INLET,false,R
-IN_129,INLET,true,
-IN_129_1,INLET,true,
-IN_129_2,INLET,false,R
-IN_13,INLET,true,
-IN_130,INLET,true,
-IN_130_1,INLET,true,
-IN_130_2,INLET,false,R
-IN_130_3,INLET,false,R
-IN_130_4,INLET,true,
-IN_130_5,INLET,true,
-IN_131,INLET,true,
-IN_132,INLET,true,
-IN_133,INLET,true,
-IN_134,INLET,true,
-IN_135,INLET,true,
-IN_136,INLET,true,
-IN_137,INLET,true,
-IN_137_1,INLET,true,
-IN_138,INLET,true,
-IN_139,INLET,true,
-IN_140,INLET,true,
-IN_141,INLET,true,
-IN_143,INLET,true,
-IN_144,INLET,true,
-IN_145,INLET,true,
-IN_146,INLET,true,
-IN_147,INLET,true,
-IN_148,INLET,true,
-IN_149,INLET,true,
-IN_15,INLET,true,
-IN_150,INLET,true,
-IN_151,INLET,true,
-IN_152,INLET,true,
-IN_153,INLET,true,
-IN_154,INLET,true,
-IN_155,INLET,true,
-IN_156,INLET,true,
-IN_157,INLET,true,
-IN_158,INLET,true,
-IN_159,INLET,true,
-IN_16,INLET,true,
-IN_160,INLET,true,
-IN_161,INLET,true,
-IN_162,INLET,true,
-IN_163,INLET,true,
-IN_164,INLET,true,
-IN_165,INLET,true,
-IN_165_1,INLET,true,
-IN_165_2,INLET,true,
-IN_165_3,INLET,true,
-IN_165_4,INLET,true,
-IN_165_5,INLET,true,
-IN_165_6,INLET,true,
-IN_165_7,INLET,true,
-IN_165_8,INLET,true,
-IN_165_9,INLET,true,
-IN_166,INLET,true,
-IN_166_1,INLET,true,
-IN_166_2,INLET,true,
-IN_167,INLET,true,
-IN_168,INLET,true,
-IN_169,INLET,true,
-IN_17,INLET,true,
-IN_170,INLET,true,
-IN_171,INLET,true,
-IN_172,INLET,true,
-IN_173,INLET,true,
-IN_174,INLET,true,
-IN_175,INLET,true,
-IN_176,INLET,true,
-IN_177,INLET,true,
-IN_178,INLET,true,
-IN_179,INLET,true,
-IN_18,INLET,true,
-IN_180,INLET,true,
-IN_181,INLET,true,
-IN_182,INLET,true,
-IN_183,INLET,true,
-IN_184,INLET,true,
-IN_185,INLET,true,
-IN_186,INLET,true,
-IN_187,INLET,true,
-IN_188,INLET,true,
-IN_189,INLET,true,
-IN_19,INLET,true,
-IN_190,INLET,true,
-IN_191,INLET,true,
-IN_192,INLET,true,
-IN_193,INLET,true,
-IN_2,INLET,true,
-IN_20,INLET,true,
-IN_21,INLET,true,
-IN_22,INLET,true,
-IN_23,INLET,true,
-IN_24,INLET,true,
-IN_25,INLET,true,
-IN_26,INLET,true,
-IN_27,INLET,true,
-IN_28,INLET,true,
-IN_29,INLET,true,
-IN_3,INLET,true,
-IN_30,INLET,true,
-IN_30_1,INLET,true,
-IN_31,INLET,true,
-IN_32,INLET,true,
-IN_33,INLET,true,
-IN_34,INLET,true,
-IN_35,INLET,true,
-IN_36,INLET,true,
-IN_37,INLET,true,
-IN_38,INLET,true,
-IN_39,INLET,true,
-IN_40,INLET,true,
-IN_41,INLET,true,
-IN_42,INLET,true,
-IN_43,INLET,true,
-IN_43_1,INLET,true,
-IN_44,INLET,true,
-IN_45,INLET,true,
-IN_46,INLET,true,
-IN_47,INLET,true,
-IN_48,INLET,true,
-IN_49,INLET,true,
-IN_5,INLET,true,
-IN_50,INLET,true,
-IN_51,INLET,true,
-IN_52,INLET,true,
-IN_52_1,INLET,true,
-IN_53,INLET,true,
-IN_54,INLET,true,
-IN_55,INLET,true,
-IN_56,INLET,true,
-IN_56_1,INLET,true,
-IN_57,INLET,true,
-IN_6,INLET,true,
-IN_60,INLET,true,
-IN_61,INLET,true,
-IN_62,INLET,true,
-IN_63,INLET,true,
-IN_66,INLET,true,
-IN_67,INLET,true,
-IN_6_1,INLET,true,
-IN_7,INLET,true,
-IN_74,INLET,true,
-IN_75,INLET,true,
-IN_75_1,INLET,false,R
-IN_75_2,INLET,true,
-IN_75_25,INLET,true,
-IN_75_3,INLET,true,
-IN_75_4,INLET,false,R
-IN_75_5,INLET,true,
-IN_75_6,INLET,false,R
-IN_76,INLET,true,
-IN_76_1,INLET,false,R
-IN_76_2,INLET,true,
-IN_76_3,INLET,true,
-IN_76_41,INLET,true,
-IN_76_42,INLET,true,
-IN_76_43,INLET,false,R
-IN_76_5,INLET,true,
-IN_77,INLET,true,
-IN_77_1,INLET,false,R
-IN_77_2,INLET,true,
-IN_77_3,INLET,true,
-IN_77_4,INLET,false,R
-IN_77_5,INLET,true,
-IN_77_6,INLET,false,R
-IN_79,INLET,true,
-IN_8,INLET,true,
-IN_80,INLET,true,
-IN_81,INLET,true,
-IN_82,INLET,true,
-IN_83,INLET,true,
-IN_84,INLET,true,
-IN_85,INLET,true,
-IN_86,INLET,true,
-IN_87,INLET,true,
-IN_88,INLET,true,
-IN_89,INLET,true,
-IN_9,INLET,true,
-IN_90,INLET,true,
-IN_91,INLET,true,
-IN_92,INLET,true,
-IN_93,INLET,true,
-IN_94,INLET,true,
-IN_95,INLET,true,
-IN_96,INLET,true,
-IN_97,INLET,true,
-IN_98,INLET,true,
-IN_99,INLET,true,
+swmm_id,status,issue_type,notes
+IN_75_6,resolved_by_override,source_lookup_override,Applied from ANSWERS
+IN_76_43,resolved_by_override,source_lookup_override,Applied from ANSWERS
+IN_77_4,resolved_by_override,source_lookup_override,Applied from ANSWERS
+IN_77_5,resolved_by_override,source_lookup_override,Applied from ANSWERS
+IN_77_6,resolved_by_override,source_lookup_override,Applied from ANSWERS
+J_4_1,resolved_by_override,source_lookup_override,Applied from ANSWERS
+J_65_1,resolved_by_override,source_lookup_override,Applied from ANSWERS
+J_68_1,resolved_by_override,source_lookup_override,Applied from ANSWERS
+J_70_1,resolved_by_override,source_lookup_override,Applied from ANSWERS
+J_70_4,resolved_by_override,source_lookup_override,Applied from ANSWERS
+J_71_1,resolved_by_override,source_lookup_override,Applied from ANSWERS
+J_71_4,resolved_by_override,source_lookup_override,Applied from ANSWERS
+J_71_5,resolved_by_override,source_lookup_override,Applied from ANSWERS
+J_71_6,resolved_by_override,source_lookup_override,Applied from ANSWERS
+J_71_9,resolved_by_override,source_lookup_override,Applied from ANSWERS
+IN_128_2,unresolved,true_missing_source,Still not found after override ingestion
+IN_129_2,unresolved,true_missing_source,Still not found after override ingestion
+IN_130_2,unresolved,true_missing_source,Still not found after override ingestion
+IN_130_3,unresolved,true_missing_source,Still not found after override ingestion
+IN_165_2,unresolved,true_missing_source,Still not found after override ingestion
+IN_165_3,unresolved,true_missing_source,Still not found after override ingestion
+IN_165_6,unresolved,true_missing_source,Still not found after override ingestion
+IN_165_7,unresolved,true_missing_source,Still not found after override ingestion
+IN_165_8,unresolved,true_missing_source,Still not found after override ingestion
+IN_165_9,unresolved,true_missing_source,Still not found after override ingestion
+IN_6,unresolved,true_missing_source,Still not found after override ingestion
+IN_6_1,unresolved,true_missing_source,Still not found after override ingestion
+IN_7,unresolved,true_missing_source,Still not found after override ingestion
+IN_74,unresolved,true_missing_source,Still not found after override ingestion
+IN_75,unresolved,true_missing_source,Still not found after override ingestion
+IN_75_1,unresolved,true_missing_source,Still not found after override ingestion
+IN_75_4,unresolved,true_missing_source,Still not found after override ingestion
+IN_75_5,unresolved,true_missing_source,Still not found after override ingestion
+IN_76_1,unresolved,true_missing_source,Still not found after override ingestion
+IN_76_3,unresolved,true_missing_source,Still not found after override ingestion
+IN_76_5,unresolved,true_missing_source,Still not found after override ingestion
+IN_77_1,unresolved,true_missing_source,Still not found after override ingestion
+IN_84,unresolved,true_missing_source,Still not found after override ingestion
+IN_89,unresolved,true_missing_source,Still not found after override ingestion
+J_136_1,unresolved,true_missing_source,Still not found after override ingestion
+J_136_2,unresolved,true_missing_source,Still not found after override ingestion
+J_136_3,unresolved,true_missing_source,Still not found after override ingestion
+J_136_6,unresolved,true_missing_source,Still not found after override ingestion
+J_136_7,unresolved,true_missing_source,Still not found after override ingestion
+J_136_8,unresolved,true_missing_source,Still not found after override ingestion
+J_136_9,unresolved,true_missing_source,Still not found after override ingestion
+J_137_1,unresolved,true_missing_source,Still not found after override ingestion
+J_137_2,unresolved,true_missing_source,Still not found after override ingestion
+J_65,unresolved,true_missing_source,Still not found after override ingestion
+J_70_3,unresolved,true_missing_source,Still not found after override ingestion
+J_71,unresolved,true_missing_source,Still not found after override ingestion
+J_71_2,unresolved,true_missing_source,Still not found after override ingestion
+J_71_3,unresolved,true_missing_source,Still not found after override ingestion
+J_78,unresolved,true_missing_source,Still not found after override ingestion
+J_78_1,unresolved,true_missing_source,Still not found after override ingestion
+J_81,unresolved,true_missing_source,Still not found after override ingestion
+J_81_1,unresolved,true_missing_source,Still not found after override ingestion
