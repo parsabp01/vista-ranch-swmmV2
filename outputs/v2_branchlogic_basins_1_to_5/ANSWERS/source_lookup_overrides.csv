@@ -1,0 +1,14 @@
+swmm_id,exists_in_hydrology,hydrology_tab,column_letter,cell_ref,raw_value,user_instruction,notes
+J_71_9,true,HYDROLOGY,B,B220,71.9,USE_THIS_SOURCE_MATCH,confirmed by user
+IN_77_6,true,HYDROLOGY,C,C218,77.6,USE_THIS_SOURCE_MATCH,confirmed by user
+J_71_6,true,HYDROLOGY,B,B216,71.6,USE_THIS_SOURCE_MATCH,confirmed by user
+J_71_4,true,HYDROLOGY,B,B210,71.4,USE_THIS_SOURCE_MATCH,confirmed by user
+IN_77_4,true,HYDROLOGY,C,C213,77.4,USE_THIS_SOURCE_MATCH,confirmed by user
+J_71_1,true,HYDROLOGY,B,B202,71.1,USE_THIS_SOURCE_MATCH,confirmed by user
+J_70_4,true,HYDROLOGY,B,B199,70.4,USE_THIS_SOURCE_MATCH,confirmed by user
+IN_76_43,true,HYDROLOGY,C,C198,76.43,USE_THIS_SOURCE_MATCH,confirmed by user
+J_70_1,true,HYDROLOGY,B,B193,70.1,USE_THIS_SOURCE_MATCH,confirmed by user
+J_68_1,true,HYDROLOGY,B,B183,68.1,USE_THIS_SOURCE_MATCH,confirmed by user
+IN_75_6,true,HYDROLOGY,C,C182,75.6,USE_THIS_SOURCE_MATCH,confirmed by user
+J_65_1,true,HYDROLOGY,B,B167,65.1,USE_THIS_SOURCE_MATCH,confirmed by user
+J_4_1,true,HYDROLOGY,B,B24,4.1,USE_THIS_SOURCE_MATCH,confirmed by user
