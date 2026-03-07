@@ -46,7 +46,7 @@
       "from_swmm_id": "J_71",
       "to_raw": "J71.1",
       "to_swmm_id": "J_71_1",
-      "edge_type": "JJ",
+      "edge_type": "IJ",
       "parsed_successfully": "true",
       "built_successfully": "false",
       "blocker_reason": "missing_junction_source",
